@@ -2,7 +2,7 @@ import config from './config.js'
 
 const development =
     location.host.search(/.+\.github\.io/) === -1 &&
-    location.host.search(/nonememe\.icu/) === -1
+    location.host.search(/rebornmeme\.datealive\.xyz/) === -1
 const domParser = new DOMParser()
 /** @type {string[]} */
 let items = []
@@ -119,7 +119,7 @@ function view() {
 async function initgallery() {
     document.getElementById(
         'description'
-    ).innerHTML = `NoneBot 群大佬们的日常，目前已有 ${items.length} 张。`
+    ).innerHTML = `Reborn群的欢乐日常，目前已有 ${items.length} 张。`
     document.getElementById('refresh-btn').onclick = () => {
         location.hash = `#${
             items[random(items.length - 1, 0)].match(
