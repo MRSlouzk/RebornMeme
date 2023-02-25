@@ -1,3 +1,5 @@
 export default {
-  items: []
+  items: [
+    "meme/找我报销1.png"
+  ]
 }
