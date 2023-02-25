@@ -3,6 +3,7 @@ export default {
     "meme/FBIx2.png",
     "meme/FBI！.png",
     "meme/NTR.png",
+    "meme/《rbq》.png",
     "meme/《健全》.png",
     "meme/《吃的》.png",
     "meme/《我不是》.png",
