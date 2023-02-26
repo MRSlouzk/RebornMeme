@@ -42,7 +42,7 @@ cat > "text/index.html" <<EOF
         <h5 id="description"></h5>
         <article id="view">
             <github-md>
-> 这里收集了一些 NoneBot 相关的文字梗。
+> 这里收集了一些 Reborn群的文字梗。
 >
 > 祝各位愉快！
 
