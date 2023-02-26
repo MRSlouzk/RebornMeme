@@ -3,10 +3,7 @@ export default {
     "meme/FBIx2.webp",
     "meme/FBI！.webp",
     "meme/NTR.webp",
-<<<<<<< Updated upstream
     "meme/mrs是女孩子.webp",
-=======
->>>>>>> Stashed changes
     "meme/《rbq》.webp",
     "meme/《健全》.webp",
     "meme/《吃的》.webp",
@@ -15,19 +12,13 @@ export default {
     "meme/不可爱小琴里.webp",
     "meme/不愧是老大.webp",
     "meme/二次元爱好者.webp",
-<<<<<<< Updated upstream
     "meme/亲亲.webp",
-=======
->>>>>>> Stashed changes
     "meme/人的XP是自由的.webp",
     "meme/什么萝莉控.webp",
     "meme/他承认了.webp",
     "meme/会女装.webp",
     "meme/借我一个肾.webp",
-<<<<<<< Updated upstream
     "meme/傻X.webp",
-=======
->>>>>>> Stashed changes
     "meme/养育蓝冰.webp",
     "meme/凛绪的肯定.webp",
     "meme/南通.webp",
@@ -39,11 +30,8 @@ export default {
     "meme/好烧.webp",
     "meme/宝藏女孩.webp",
     "meme/对着凛绪冲.webp",
-<<<<<<< Updated upstream
     "meme/干我.webp",
     "meme/开淫趴.webp",
-=======
->>>>>>> Stashed changes
     "meme/我们是爱.webp",
     "meme/我全都要.webp",
     "meme/我喜欢这个.webp",
@@ -69,10 +57,7 @@ export default {
     "meme/萝莉太棒了.webp",
     "meme/虚了.webp",
     "meme/被女生噶.webp",
-<<<<<<< Updated upstream
     "meme/认爹.webp",
-=======
->>>>>>> Stashed changes
     "meme/诚哥.webp",
     "meme/配种.webp"
   ]
