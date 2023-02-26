@@ -24,9 +24,9 @@ cat > "text/index.html" <<EOF
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="NoneBot 群大佬们的日常">
+    <meta name="description" content="Reborn群的欢乐日常">
     <link rel="icon" href="/static/favicon.ico">
-    <title>NoneBot 梗 | NoneBot 群大佬们的日常</title>
+    <title>Reborn群的欢乐日常</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1.5.0/css/pico.min.css">
     <link rel="stylesheet" href="/static/style.css">
     <style>
@@ -38,7 +38,7 @@ cat > "text/index.html" <<EOF
 
 <body>
     <main class="container">
-        <h1>NoneBot 梗 | <a href="/">图片梗</a></h1>
+        <h1>文字梗 | <a href="/">图片梗</a></h1>
         <h5 id="description"></h5>
         <article id="view">
             <github-md>
@@ -61,8 +61,8 @@ cat >> "text/index.html" <<EOF
         </article>
 
         <footer id="footer">
-            <p>· NoneBot 闲聊群 · 堂堂连载 ·</p>
-            <p><a href="https://github.com/NoneMeme/NoneMeme">看完了吗？感兴趣的话， 可以来 GitHub 投稿哦！</a></p>
+            <p>· 致谢Reborn群当中的大佬们(受迫害对象) ·</p>
+            <p> 加速器是永远的老大!!! </p>
         </footer>
     </main>
 </body>
