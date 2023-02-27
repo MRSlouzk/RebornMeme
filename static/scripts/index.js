@@ -2,7 +2,7 @@ import config from './config.js'
 
 const development =
     location.host.search(/.+\.github\.io/) === -1 &&
-    location.host.search(/rebornmeme\.datealive\.xyz/) === -1
+    location.host.search(/rebornmeme\.ren/) === -1
 const domParser = new DOMParser()
 /** @type {string[]} */
 let items = []
