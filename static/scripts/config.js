@@ -45,6 +45,7 @@ export default {
     "meme/找我报销1.webp",
     "meme/文笔不错.webp",
     "meme/日我.webp",
+    "meme/日自己x2.webp",
     "meme/欧内酱老大.webp",
     "meme/歹毒的老大.webp",
     "meme/毫无兴趣？.webp",
