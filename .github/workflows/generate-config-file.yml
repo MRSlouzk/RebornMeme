@@ -12,7 +12,7 @@ on:
       - '.github/workflows/generate-config-file.yml'
 
 permissions:
-  contents: read|write
+  contents: write
   pages: write
   id-token: write
 
