@@ -33,12 +33,12 @@ jobs:
         run: |
           ./shell/computed.sh
           cat static/scripts/config.js
-      - uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: 'chore: update config file'
-          file_pattern: static/scripts/config.js
-        env:
-          GITHUB_TOKEN: ${{ secrets.TOKEN }}
+      - name: Commit
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email github-actions[bot]@users.noreply.github.com
+          git commit -m "Update data" -a || exit 0
+          git push
           
   deploy_page:
     needs: generate-config-file
