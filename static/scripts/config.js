@@ -1,5 +1,6 @@
 export default {
   items: [
+    "meme/12岁萝莉.webp",
     "meme/FBIx2.webp",
     "meme/FBI！.webp",
     "meme/NTR.webp",
