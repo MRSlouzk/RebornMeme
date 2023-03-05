@@ -32,6 +32,7 @@ export default {
     "meme/好人卡.webp",
     "meme/好烧.webp",
     "meme/宝藏女孩.webp",
+    "meme/富婆来了.webp",
     "meme/对着凛绪冲.webp",
     "meme/干我.webp",
     "meme/开淫趴.webp",
