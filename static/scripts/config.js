@@ -6,6 +6,7 @@ export default {
     "meme/NTR.webp",
     "meme/mrs是女孩子.webp",
     "meme/rbq的职责.webp",
+    "meme/rbq的自觉.webp",
     "meme/《rbq》.webp",
     "meme/《健全》.webp",
     "meme/《吃的》.webp",
