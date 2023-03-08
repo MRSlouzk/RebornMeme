@@ -70,6 +70,7 @@ export default {
     "meme/被女生噶.webp",
     "meme/认爹.webp",
     "meme/诚哥.webp",
+    "meme/转移矛盾.webp",
     "meme/配种.webp"
   ]
 }
