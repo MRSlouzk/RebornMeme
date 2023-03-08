@@ -48,6 +48,7 @@ export default {
     "meme/我超我自己.webp",
     "meme/找我报销1.webp",
     "meme/攀比欲.webp",
+    "meme/攻击性.webp",
     "meme/文笔不错.webp",
     "meme/日我.webp",
     "meme/日自己x2.webp",
