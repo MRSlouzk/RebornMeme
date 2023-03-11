@@ -15,6 +15,7 @@ export default {
     "meme/《设精》.webp",
     "meme/不可爱小琴里.webp",
     "meme/不愧是老大.webp",
+    "meme/不气不气.webp",
     "meme/二次元爱好者.webp",
     "meme/亲亲.webp",
     "meme/人的XP是自由的.webp",
