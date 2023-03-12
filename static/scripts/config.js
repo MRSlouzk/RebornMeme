@@ -75,6 +75,7 @@ export default {
     "meme/认爹.webp",
     "meme/诚哥.webp",
     "meme/转移矛盾.webp",
+    "meme/过梗论.webp",
     "meme/配种.webp"
   ]
 }
