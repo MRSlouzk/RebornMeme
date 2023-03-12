@@ -31,6 +31,7 @@ export default {
     "meme/口球和妹妹.webp",
     "meme/呼他.webp",
     "meme/喜欢14岁.webp",
+    "meme/堕落.webp",
     "meme/大婶.webp",
     "meme/女装转移.webp",
     "meme/好人卡.webp",
