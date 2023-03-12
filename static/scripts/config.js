@@ -60,6 +60,7 @@ export default {
     "meme/毫无兴趣？.webp",
     "meme/烧0.webp",
     "meme/爆照.webp",
+    "meme/猫娘与现充.webp",
     "meme/白草の期盼.webp",
     "meme/结婚证.webp",
     "meme/美少女.webp",
