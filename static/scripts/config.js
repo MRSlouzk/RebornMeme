@@ -29,6 +29,7 @@ export default {
     "meme/凛绪的肯定.webp",
     "meme/南通.webp",
     "meme/口球和妹妹.webp",
+    "meme/呼他.webp",
     "meme/喜欢14岁.webp",
     "meme/大婶.webp",
     "meme/女装转移.webp",
