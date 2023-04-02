@@ -25,6 +25,7 @@ export default {
     "meme/借我一个肾.webp",
     "meme/做题家.webp",
     "meme/傻X.webp",
+    "meme/兴奋.webp",
     "meme/养育蓝冰.webp",
     "meme/凛绪的肯定.webp",
     "meme/南通.webp",
