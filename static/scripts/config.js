@@ -36,6 +36,7 @@ export default {
     "meme/女装转移.webp",
     "meme/好人卡.webp",
     "meme/好烧.webp",
+    "meme/好诶.webp",
     "meme/宝藏女孩.webp",
     "meme/富婆来了.webp",
     "meme/对着凛绪冲.webp",
