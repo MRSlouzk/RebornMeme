@@ -71,6 +71,7 @@ export default {
     "meme/美少女.webp",
     "meme/老大の叫.webp",
     "meme/老大万岁！.webp",
+    "meme/老大是女孩子.webp",
     "meme/老大的性别.webp",
     "meme/老大的愿望.webp",
     "meme/自我恐惧.webp",
