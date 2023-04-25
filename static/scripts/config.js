@@ -28,6 +28,7 @@ export default {
     "meme/兴奋.webp",
     "meme/养育蓝冰.webp",
     "meme/凛绪的肯定.webp",
+    "meme/加加，炒一下.webp",
     "meme/加速器怎么了你.webp",
     "meme/南通.webp",
     "meme/即使化身南通.webp",
