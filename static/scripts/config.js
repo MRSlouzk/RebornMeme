@@ -83,6 +83,7 @@ export default {
     "meme/蓝冰老婆.webp",
     "meme/虚了.webp",
     "meme/被女生噶.webp",
+    "meme/誓言.webp",
     "meme/认爹.webp",
     "meme/诚哥.webp",
     "meme/转移矛盾.webp",
