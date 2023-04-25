@@ -29,6 +29,7 @@ export default {
     "meme/养育蓝冰.webp",
     "meme/凛绪的肯定.webp",
     "meme/南通.webp",
+    "meme/即使化身南通.webp",
     "meme/口球和妹妹.webp",
     "meme/后入.webp",
     "meme/呼他.webp",
