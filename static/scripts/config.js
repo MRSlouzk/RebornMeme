@@ -89,6 +89,7 @@ export default {
     "meme/转移矛盾.webp",
     "meme/过梗论.webp",
     "meme/迫害五天自己.webp",
+    "meme/都是老婆.webp",
     "meme/配种.webp"
   ]
 }
