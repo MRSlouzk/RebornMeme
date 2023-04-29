@@ -47,6 +47,7 @@ export default {
     "meme/对着凛绪冲.webp",
     "meme/干我.webp",
     "meme/开淫趴.webp",
+    "meme/我们の蓝冰.webp",
     "meme/我们是爱.webp",
     "meme/我全都要.webp",
     "meme/我养你.webp",
