@@ -81,6 +81,7 @@ export default {
     "meme/自我恐惧.webp",
     "meme/舔舔舔.webp",
     "meme/萝莉太棒了.webp",
+    "meme/蓝冰是老婆哒.webp",
     "meme/蓝冰老婆.webp",
     "meme/虚了.webp",
     "meme/被女生噶.webp",
