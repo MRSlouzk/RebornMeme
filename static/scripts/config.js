@@ -58,6 +58,7 @@ export default {
     "meme/我养你.webp",
     "meme/我喜欢这个.webp",
     "meme/我是0.webp",
+    "meme/我是你的rbq.webp",
     "meme/我是美少女.webp",
     "meme/我期待我女装.webp",
     "meme/我穿.webp",
