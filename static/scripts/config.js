@@ -64,6 +64,7 @@ export default {
     "meme/我穿.webp",
     "meme/我超我自己.webp",
     "meme/找我报销1.webp",
+    "meme/把头拧下来.webp",
     "meme/摘摘の女装.webp",
     "meme/攀比欲.webp",
     "meme/攻击性.webp",
