@@ -75,6 +75,7 @@ export default {
     "meme/欧内酱老大.webp",
     "meme/歹毒的老大.webp",
     "meme/毫无兴趣？.webp",
+    "meme/满足你好了.webp",
     "meme/灵位.webp",
     "meme/烧0.webp",
     "meme/爆照.webp",
